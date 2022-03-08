@@ -3,11 +3,11 @@
 
 The Objective of the Project:
 
-A crime is an unlawful act punishable by a state or other authority. Crimes are harmful to everyone but still continues everywhere.
-As technology develops the crime rate also increases as people misuse technology and its powers for wrong purposes.
-so here we are going to create a project that will help a person to analyse the crime level in india in a particular state.
-        1. To analyze the crime level in our country in the past 20 years.
-        2. To predict the crime level approximately in the upcoming years.
+        A crime is an unlawful act punishable by a state or other authority. Crimes are harmful to everyone but still continues everywhere.
+        As technology develops the crime rate also increases as people misuse technology and its powers for wrong purposes.
+        so here we are going to create a project that will help a person to analyse the crime level in india in a particular state.
+                1. To analyze the crime level in our country in the past 20 years.
+                2. To predict the crime level approximately in the upcoming years.
 
 Problem Statement:
       
