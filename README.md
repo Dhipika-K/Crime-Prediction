@@ -18,7 +18,7 @@ Problem Statement:
 The Dataset:
      
         The dataset consists of data aout the number of crimes in different states in India and the gender affected in the crime.
-        It contains major information about the burgulary crime happening in the states.
+        It contains major information about the burgulary crime happening in different states.
         
 What is done using the dataset?
         
