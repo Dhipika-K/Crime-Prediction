@@ -41,7 +41,7 @@ Next K-Nearest Neighbour algorithm was applied to the dataset. It stores all the
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ## Contributers
-Dhipika-K (https://github.com/Dhipika-K)
+Dhipika-K (https://github.com/Dhipika-K)                                                                                           
 Palesha-Basumatary (https://github.com/Palesha-Basumatary)
 shruthi1014 (https://github.com/shruthi1014)
 
