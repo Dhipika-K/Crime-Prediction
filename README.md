@@ -1,5 +1,5 @@
 # Crime-Prediction
-
+DAC Project
 
 The Objective of the Project:
 
@@ -23,3 +23,17 @@ The Dataset:
 What is done using the dataset?
         
         The user's state data will be displayed using the dataset and further predictions will also be made from the dataset.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+# Crime-Type-Prediction
+
+## Problem Statement
+
+## Dataset
+
+## Models used
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+## Contributers
